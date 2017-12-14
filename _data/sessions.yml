@@ -1,0 +1,182 @@
+-
+  id: 300
+  title: "Registration"
+  place: "Millenium Foyer (2nd Floor)"
+  service: true
+-
+  id: 301
+  title: "Wharton MBA and Lauder Admissions Session & Student Panel"
+  place: "Commonwealth Ballroom"
+  service: true
+  speakers: [56, 66]
+-
+  id: 302
+  title: "Venture Competition"
+  place: "Commonwealth Ballroom"
+  #service: true
+  speakers: [50, 51, 15, 13, 37]
+  description: "Companies pitching: ScholarX, Loystar, MWAYI, Redbird Health Tech, MDaaS, Bright Future, Accounteer, OZE, Solar Freeze, SolarLuv"
+-
+  id: 304
+  title: "VIP Cocktail Reception"
+  place: "By invitation only"
+  service: true
+-
+  id: 305
+  title: "Small Group Dinners"
+  place: "Various"
+  service: true
+-
+  id: 306
+  title: "Friday Night Mixer | Official Pre-Conference Soirée"
+  place: "1925 Lounge (111 S 17th St., Philadelphia)"
+  description: "Tickets available <a href=https://wabf.ticketspice.com/wharton-africa-business-forum>here</a>"
+  service: true
+-
+  id: 399
+  title: "Registration & Breakfast"
+  place: "Millenium Foyer (2nd Floor)"
+  service: true
+-
+  id: 401
+  title: "Welcome Address & Breakfast Keynote Panel"
+  place: "Millennium Ballroom"
+  #service: true
+  speakers: [52, 4, 44]
+-
+  id: 403
+  title: "Grand Panel: Energy"
+  place: "Howe Room (33rd Floor)"
+  speakers: [8, 23, 11, 41]
+-
+  id: 405
+  title: "Grand Panel: Entrepreneur&shy;ship"
+  place: "Terrace Room (33rd Floor)"
+  speakers: [15, 12, 32, 33]
+-
+  id: 406
+  title: "Grand Panel: Women in Business"
+  place: "Lescaze Room (33rd Floor)"
+  speakers: [29, 31, 58, 59]
+-
+  id: 407
+  title: "Fireside Chat: Consumer Goods"
+  place: "Franklin Room (3rd Floor)"
+  speakers: [13, 39, 64, 67]
+-
+  id: 427
+  title: "Fireside Chat: Education"
+  place: "Adams Room (3rd Floor)"
+  speakers: [18, 34, 35]
+-
+  id: 428
+  title: "Fireside Chat: Real Estate & Urbanization"
+  place: "Anthony Room (3rd Floor)"
+  speakers: [21, 36, 40]
+-
+  id: 408
+  title: "Lunch Keynote Panel"
+  place: "Millennium Ballroom (2nd Floor)"
+#  service: true
+  speakers: [2, 25]
+-
+  id: 409
+  title: "Fireside Chat: Agriculture"
+  place: "Franklin Room (3rd Floor)"
+  speakers: [7, 27, 68]
+-
+  id: 410
+  title: "Grand Panel: Digital Finance"
+  place: "Terrace Room (33rd Floor)"
+  speakers: [9, 26, 55, 70, 72]
+-
+  id: 411
+  title: "Grand Panel: Private Equity"
+  place: "Howe Room (33rd Floor)"
+  speakers: [42, 28, 24, 53, 38]
+-
+  id: 412
+  title: "Fireside Chat: Data Revolution"
+  place: "Adams Room (3rd Floor)"
+  speakers: [16, 17, 22]
+-
+  id: 429
+  title: "Fireside Chat: Healthcare"
+  place: "Anthony Room (3rd Floor)"
+  speakers: [37, 45]
+-
+  id: 430
+  title: "Grand Panel: Impact Investing"
+  place: "Lescaze Room (33rd Floor)"
+  speakers: [10, 43, 62, 65, 50, 71]
+-
+  id: 425
+  title: "Investing in African Art as an Asset Class"
+  place: "Adams Room (3rd Floor)"
+  speakers: [61, 48, 49]
+-
+  id: 423
+  title: "Masterclass: Insider Look at Andela's Series C - the Largest African Venture Funding to Date"
+  place: "Franklin Room (3rd Floor)"
+  speakers: [51]
+-
+  id: 414
+  title: "McKinsey State of the Continent Session"
+  place: "Millenium Ballroom (2nd Floor)"
+  speakers: [25]
+-
+  id: 421
+  title: "BCG State of the Continent Session"
+  place: "Millenium Ballroom (2nd Floor)"
+  speakers: [44]
+-
+  id: 416
+  title: "Pre-Gala Reception"
+  place: "Regency Foyer"
+  service: true
+-
+  id: 417
+  title: "Break"
+  service: true
+-
+  id: 418
+  title: "Career Fair"
+  place: "Marriott Hotel (Ballroom H)"
+  service: true
+-
+  id: 419
+  title: "Gala & Evening Keynote"
+  place: "Regency Ballroom (2nd Floor)"
+  #service: true
+  speakers: [3, 6, 69]
+-
+  id: 420
+  title: "After-Party"
+  place: "Millennium (2nd Floor)"
+  description: "Tickets available <a href=https://wabf.ticketspice.com/wharton-africa-business-forum>here</a>"
+  speakers: [46]
+  service: true
+-
+  id: 500
+  title: "Group Jog by the Schuylkill"
+  place: "TBD"
+  service: true
+-
+  id: 501
+  title: "Masterclass"
+  place: "TBD"
+  service: true
+-
+  id: 502
+  title: "Wharton Alumni and YAM Brunch"
+  place: "Spirit of Philadelphia (401 S Christopher Columbus Blvd, Philadelphia, PA 19106)"
+  service: true
+-
+  id: 600
+  title: "Media Interviews"
+  place: "TBD"
+-
+  id: 700
+  title: "Twitter Q&A with Prof. Calestous Juma"
+  place: "<a href=https://twitter.com/calestous>Twitter: @calestous</a> #JumaWABF"
+  speakers: [60]

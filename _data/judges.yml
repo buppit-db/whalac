@@ -1,0 +1,35 @@
+-
+  id: 50
+  name: "Michele"
+  surname: "Rivard"
+  company: "Village Capital"
+  title: "Fellow"
+  thumbnailUrl: judges/Rivard.jpg
+-
+  id: 51
+  name: "Pardon"
+  surname: "Makumbe"
+  company: "CRE Venture Capital"
+  title: "Founding Partner"
+  thumbnailUrl: judges/Makumbe.jpg
+-
+  id: 37
+  name: "Stephen"
+  surname: "Sammut"
+  company: "The Wharton School | Pangea University for the Health Sciences"
+  title: "Senior Fellow, Health Care Management and Lecturer, Entrepreneurship | Founder and President"
+  thumbnailUrl: speakers/Sammut.jpg
+-
+  id: 15
+  name: "Ike"
+  surname: "Eze"
+  company: ""
+  title: "Tech Investor"
+  thumbnailUrl: speakers/Eze.png
+-
+  id: 13
+  name: "Vincent"
+  surname: "Egbe"
+  company: "The Kraft Heinz Company"
+  title: "Country Manager, West and Central Africa"
+  thumbnailUrl: speakers/Egbe.png
